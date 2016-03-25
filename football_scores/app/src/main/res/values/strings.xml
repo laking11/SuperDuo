@@ -67,6 +67,7 @@
     <string name="desc_no_score">No score listed</string>
     <string name="desc_score_leadin">Score is</string>
     <string name="desc_score_delim">" to "</string>
+    <string name="desc_share_score">Share football score</string>
     <string name="appwidget_text">EXAMPLE</string>
     <string name="add_widget">Add widget</string>
     <string name="no_data_found">No Data Found</string>
